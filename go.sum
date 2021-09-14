@@ -1,3 +1,11 @@
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907095321-fd3f98bbd974 h1:XP0jxJNTsRWd+C7zYy8f7heuHyzc6YsWcl/MurUnRDs=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907095321-fd3f98bbd974/go.mod h1:D9ujhpoSf7DLQ+12hy4JY/xhFNvwqWPiiWMtWaBxaKo=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907141037-53ed8b6a5152 h1:RbNYzPefP2eLJtLmAohjfHWbp+Nk85UIdSRQeWrpuzU=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907141037-53ed8b6a5152/go.mod h1:D9ujhpoSf7DLQ+12hy4JY/xhFNvwqWPiiWMtWaBxaKo=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907141538-e6754206f29c h1:ww6FDIFZCOjSVKK+5Inenb1GXF6tucFCTEEgyG4u8U4=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907141538-e6754206f29c/go.mod h1:D9ujhpoSf7DLQ+12hy4JY/xhFNvwqWPiiWMtWaBxaKo=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907142518-12164ec689e2 h1:3dci/TC1f2LJAgken/P3DGW69CpMAw1pghGDmrJBgRo=
+github.com/ruim-jlu/wowchemy-widget-pub-pro v0.0.0-20210907142518-12164ec689e2/go.mod h1:D9ujhpoSf7DLQ+12hy4JY/xhFNvwqWPiiWMtWaBxaKo=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210830150813-8b6612e7631c h1:vafRBbJlHX4W0u8e4eE8Wwn6NxU0fm8Q4f+etVAw6lw=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210830150813-8b6612e7631c/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210830150813-8b6612e7631c h1:HpwdJk+c1ufAfXJhNfdaHlPmRy37WOgKdl0hmNLzNd0=

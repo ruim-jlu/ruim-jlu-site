@@ -1,5 +1,7 @@
 ---
-title: Publications
+
+
+title: Selected Publications
 cms_exclude: true
 
 # View.
@@ -7,10 +9,16 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+#   5 = More professional publication; image at left
+view: 5
+
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+
+headless: true
+
 ---
+$\quad$ \* *For full publications, please visit my [Google Scholar](https://scholar.google.ca/citations?user=gU429joAAAAJ&hl=en)*
