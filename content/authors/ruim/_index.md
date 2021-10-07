@@ -23,7 +23,7 @@ contact:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-announce: "* **[September 2021] Recruiting**: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please send me your **CV (resume)** and a **brief summary** of your experience in PPT to ruim.jlu@gmail.com if interested."
+announce: "* **[September 2021] Recruiting**: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please send me your **CV (resume)** and a **brief summary** of your experience in PPT to ruim@jlu.edu.cn if interested."
 
 # Education to show in About widget
 education:
