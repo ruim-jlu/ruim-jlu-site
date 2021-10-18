@@ -23,7 +23,7 @@ contact:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-announce: "* **[September 2021] Recruiting**: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please send me your **CV (resume)** and a **brief summary** of your experience in PPT to ruim@jlu.edu.cn if interested."
+announce: "*  <span style=\"color: red;\">**2022年博士和硕士招生**</span>: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please send me your **CV (resume)**, **Transcript** and a **brief Summary** of your experience (in PPT) to ruim@jlu.edu.cn if interested."
 
 # Education to show in About widget
 education:
@@ -82,7 +82,9 @@ highlight_name: true
 ---
 
 Rui Ma (马锐) is an Associate Professor in School of Artificial Intelligence, Jilin University, China. 
-Rui obtained his PhD in 2018 from School of Computing Science, Simon Fraser University.
+Rui leads the [Intelligent Content Learning (ICL)](/team) group with the goal of developing **intelligent** algorithms for the **analysis**, **creation** and **application** of 3D and 2D content.
+
+Rui obtained his PhD in 2018 from School of Computing Science, Simon Fraser University, Canada.
 At SFU, he worked in the [GrUVi Lab](https://gruvi.cs.sfu.ca/) (World Rank #13 in CG&CV based on [CSRankings 2021](http://csrankings.org/#/index?vision&graph&world)) under the supervision of [Prof. Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/).
 Before that, Rui got his MSc and BSc from School of Mathematics, Jilin University.
 
