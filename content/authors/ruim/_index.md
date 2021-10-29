@@ -23,7 +23,11 @@ contact:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-announce: "*  <span style=\"color: red;\">**2022年博士和硕士招生**</span>: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please send me your **CV (resume)**, **Transcript** and a **brief Summary** of your experience (in PPT) to ruim@jlu.edu.cn if interested."
+announce: "*  [Recruiting]: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please: <br> 
+  1. Send me your **CV (resume)**, **Transcript** and a **brief Summary** of your experience (in PPT). (简历，成绩单，学习和科研经历的PPT简介) <br>
+  2. Finish the computer graphics (e.g., [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)) and computer vision (e.g., [Stanford CS131, 2019 Fall version](http://vision.stanford.edu/teaching/cs131_fall1920/)) course before contacting me. **I will ask detailed technique questions in the interview**. （请自行完成计算机图形学和计算机视觉基础课程的学习，我会在面试中提问具体的技术细节）<br> 
+  <span style=\"color: red;\">（注：2022年博士和保送硕士研究生招生名额已用完，考研硕士名额仍有剩余）</span>
+"
 
 # Education to show in About widget
 education:
