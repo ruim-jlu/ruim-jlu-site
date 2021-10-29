@@ -11,7 +11,7 @@ user_groups: ["Faculty"]
 role: Professor
 
 organizations:
-- name:  $~~~~~~$School of Artificial Intelligence $~~~~~~$ School of Mathematics
+- name:  School of Artificial Intelligence <br> School of Mathematics
 
 interests:
 

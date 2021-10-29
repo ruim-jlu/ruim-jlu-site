@@ -1,7 +1,6 @@
 ---
 # Display name
-title: $%ms_2021_30$ Shida Wei (魏士达)
-home_page: https://weishida666.github.io/
+title: $%ms_2021_40$ Jiacheng Liu (刘家成)
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +14,6 @@ organizations:
 - name:  School of Artificial Intelligence
 
 interests:
-
 
 highlight_name: false
 ---

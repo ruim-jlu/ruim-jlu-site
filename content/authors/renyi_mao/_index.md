@@ -1,6 +1,6 @@
 ---
 # Display name
-title: $%ms_2$ Renyi Mao (毛仁亿)
+title: $%ms_2021_20$ Renyi Mao (毛仁亿)
 
 # Is this the primary user of the site?
 superuser: false

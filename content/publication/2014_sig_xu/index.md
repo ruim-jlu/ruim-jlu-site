@@ -33,7 +33,7 @@ publishDate: "2014-01-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACM Transactions on Graphics (Special Issue of SIGGRAPH), 2014*"
+publication: "*ACM Transactions on Graphics (Special Issue of SIGGRAPH), 2014* (CCF-A类期刊, IF=6.495)"
 publication_short: "*ACM Transactions on Graphics (Special Issue of SIGGRAPH), 2014*"
 
 abstract: []

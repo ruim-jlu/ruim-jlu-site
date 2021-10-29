@@ -1,45 +1,48 @@
 ---
-title: "Topology-Varying 3D Shape Creation via Structural Blending"
-weight: 20
-
+title: "Spatial-Temporal Residual Aggregation for High Resolution Video Inpainting"
+weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ibraheem_alhashim
-- honghua_li
-- kai_xu
-- junjie_cao
+- vishnu_srinivasan
 - ruim
-- hao_zhang
+- qiang_tang
+- zili_yi
+- zhan_xu
 
 
 # author_pages: []
 
 # Author notes (optional)
-author_notes: []
+author_notes:
+- Co-first Author
+- Co-first Author
+- Corresponding Author
+-
+-
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-01-01"
+publishDate: "2021-10-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACM Transactions on Graphics (Special Issue of SIGGRAPH), 2014* (CCF-A类期刊, IF=6.495)"
-publication_short: "*ACM Transactions on Graphics (Special Issue of SIGGRAPH), 2014*"
+publication: "*British Machine Vision Conference (BMVC), 2021* (清华B类会议)"
+publication_short: "*British Machine Vision Conference (BMVC), 2021*"
 
 abstract: []
 
 # Summary. An optional shortened abstract.
-summary: We introduce an algorithm for generating novel 3D models via topology-varying shape blending. Given two shapes with different topology, our method blends them topologically and geometrically, producing continuous series of in-betweens representing new creations.
+summary: We propose STRA-Net, a novel spatial-temporal residual aggregation framework for high resolution video inpainting. Our method can produce temporal-coherent inpainting results for high resolution videos efficiently.
 
 
 tags: []
@@ -56,7 +59,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://ialhashim.github.io/projects/topo/index.html'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

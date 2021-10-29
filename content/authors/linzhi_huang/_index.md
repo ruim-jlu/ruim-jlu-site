@@ -1,7 +1,6 @@
 ---
 # Display name
-title: $%ms_2021_30$ Shida Wei (魏士达)
-home_page: https://weishida666.github.io/
+title: $%ms_2022_20$ Linzhi Huang (黄林志)
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,7 +10,7 @@ user_groups: ["Master Students"]
 role: 
 
 organizations:
-- name:  2021 to Now
+- name:  "2022 start, Co-supervised with [Prof. Yi Chang](http://yichang-cs.com/)"
 - name:  School of Artificial Intelligence
 
 interests:

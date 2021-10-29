@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Intelligent Content Learning (ICL) Group 
-subtitle: "<font size=3>*Analysis, Creation and Application of 3D and 2D Content*</font> <br> School of Artificial Intelligence, Jilin University"
+subtitle: "<font size=3>*Analysis, Creation and Application of X-D Content*</font> <br> School of Artificial Intelligence, Jilin University"
 
 content:
   # Choose which groups/teams of users to display.

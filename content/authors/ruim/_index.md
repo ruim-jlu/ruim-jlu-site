@@ -82,7 +82,7 @@ highlight_name: true
 ---
 
 Rui Ma (马锐) is an Associate Professor in School of Artificial Intelligence, Jilin University, China. 
-Rui leads the [Intelligent Content Learning (ICL)](/team) group with the goal of developing **intelligent** algorithms for the **analysis**, **creation** and **application** of 3D and 2D content.
+Rui leads the [Intelligent Content Learning (ICL)](/team) group with the goal of developing **intelligent** algorithms for the **analysis**, **creation** and **application** of X-D content (3D models, images, text and more).
 
 Rui obtained his PhD in 2018 from School of Computing Science, Simon Fraser University, Canada.
 At SFU, he worked in the [GrUVi Lab](https://gruvi.cs.sfu.ca/) (World Rank #13 in CG&CV based on [CSRankings 2021](http://csrankings.org/#/index?vision&graph&world)) under the supervision of [Prof. Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/).
