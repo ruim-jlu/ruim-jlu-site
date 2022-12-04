@@ -23,11 +23,11 @@ contact:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-announce: "*  [Recruiting]: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see [details](#interests) below). Ideal candidates are expected to be *self-motivated* (most important, no matter you are aiming for academia or industry), *organized* and *responsible*. Strong programming skills, solid mathematics knowledge as well as good communication skills are preferred. Please: <br> 
+announce: "*  [Recruiting]: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see this brief [introduction](https://mp.weixin.qq.com/s/oiRzVK7qYIYSq9vZjnbOgg) (in Chinese) and also the [details](#interests) below). Ideal candidates are expected to be <span style=\"color: red;\">**self-motivated**</span> (most important, no matter you are aiming for academia or industry), **organized**, **responsible**, and a **team player**. Strong **programming** skills, solid **mathematics** knowledge as well as good **communication** skills are preferred. Please: <br> 
   1. Send me your **CV (resume)**, **Transcript** and a **brief Summary** of your experience (in PPT). (简历，成绩单，学习和科研经历的PPT简介) <br>
   2. Finish the computer graphics (e.g., [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)) and computer vision (e.g., [Stanford CS131, 2019 Fall version](http://vision.stanford.edu/teaching/cs131_fall1920/)) course before contacting me. **I will ask detailed technique questions in the interview**. （请自行完成计算机图形学和计算机视觉基础课程的学习，我会在面试中提问具体的技术细节）<br> 
-  <span style=\"color: red;\">（注：2022年博士和保送硕士研究生招生名额已用完，考研硕士名额仍有剩余）</span>
 "
+#   <span style=\"color: red;\">（注：2022年博士和保送硕士研究生招生名额已用完，考研硕士名额仍有剩余）</span>
 
 # Education to show in About widget
 education:
@@ -89,11 +89,11 @@ Rui Ma (马锐) is an Associate Professor in School of Artificial Intelligence, 
 Rui leads the [Intelligent Content Learning (ICL)](/team) group with the goal of developing **intelligent** algorithms for the **analysis**, **creation** and **application** of X-D content (3D models, images, text and more).
 
 Rui obtained his PhD in 2018 from School of Computing Science, Simon Fraser University, Canada.
-At SFU, he worked in the [GrUVi Lab](https://gruvi.cs.sfu.ca/) (World Rank #13 in CG&CV based on [CSRankings 2021](http://csrankings.org/#/index?vision&graph&world)) under the supervision of [Prof. Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/).
+At SFU, he worked in the [GrUVi Lab](https://gruvi.cs.sfu.ca/) (World Rank #10 in CG&CV based on [CSRankings 2022](http://csrankings.org/#/index?vision&graph&world)) under the supervision of [Prof. Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/).
 Before that, Rui got his MSc and BSc from School of Mathematics, Jilin University.
 
 Rui has extensive backgrounds in both academia and industry. During his PhD, Rui has published several papers in Siggraph/Siggraph Asia, the most prestigious conference in computer graphics.
-After graduation, Rui gained his industrial research experience (with two US patents granted) in the AI-focused start-up company and also the big tech giant (Huawei Canada), working on the state-of-the-art AI algorithms and their applications.
+After graduation, Rui gained his industrial research experience (with three US patents granted) in the AI-focused start-up company and also the big tech giant (Huawei Canada), working on the state-of-the-art AI algorithms and their applications.
 Rui has wide collaborations with talented researchers from top universities (Stanford, SFU, Tsinghua etc.) and companies (Adobe, Microsoft, Google etc.).
 He also has close connections with researchers in Huawei, ByteDance and Alibaba etc.
 

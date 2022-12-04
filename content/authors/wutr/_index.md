@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Ali Mahdavi-Amiri
-home_page: https://www.sfu.ca/~amahdavi/Home.html
+title: Tieru Wu
+home_page: https://sai.jlu.edu.cn/info/1094/3099.htm
 
 # Is this the primary user of the site?
 superuser: false

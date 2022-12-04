@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Ali Mahdavi-Amiri
-home_page: https://www.sfu.ca/~amahdavi/Home.html
+title: Lingxiao Zhang
+home_page: 
 
 # Is this the primary user of the site?
 superuser: false

@@ -10,7 +10,7 @@ user_groups: ["Master Students"]
 role: 
 
 organizations:
-- name:  "2022 start, Co-supervised with [Prof. Yi Chang](http://yichang-cs.com/)"
+- name:  "2022 to Now, Co-supervised with [Prof. Yi Chang](http://yichang-cs.com/)"
 - name:  School of Artificial Intelligence
 
 interests:

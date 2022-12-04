@@ -23,5 +23,5 @@ design:
   
 
 ---
-* **Reviewer (journal)**: Computer Graphics Forum (2020), Graphical Models (2020), IEEE TVCG (2019)
-* **Reviewer (conference)**: AAAI (2021), IEEE Virtual Reality (2020), Graphics Interface (2016, 2017), Computational Visual Media (2017)
+* **Reviewer (journal)**: IEEE TVCG, Computational Visual Media Journal, Computer Graphics Forum, Graphical Models
+* **Reviewer (conference)**: Eurographics, AAAI, IEEE Virtual Reality, Computational Visual Media, Graphics Interface

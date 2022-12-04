@@ -1,36 +1,35 @@
 ---
-title: "View-Aware Geometry-Structure Joint Learning for Single-View 3D Shape Reconstruction"
+title: "SAC-GAN: Structure-Aware Image Composition"
 weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- xuancheng_zhang
+- hang_zhou
 - ruim
-- changqing_zou
-- minghao_zhang
-- xibin_zhao
-- yue_gao
+- lingxiao_zhang
+- lin_gao
+- ali_amiri
+- hao_zhang
 
 
 # author_pages: []
 
 # Author notes (optional)
 author_notes:
-- Co-first Author
-- Co-first Author
+-
+- Corresponding Author
 - 
 - 
-- Corresponding Author
-- Corresponding Author
-
+-
+-
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-02"
+publishDate: "2022-12-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,13 +38,14 @@ publishDate: "2021-01-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021* (CCF-A类期刊, IF=16.389)"
-publication_short: "*IEEE TPAMI, 2021*"
+publication: "*IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022* (CCF-A类期刊, IF=5.226)
+"
+publication_short: "*TVCG, 2022*"
 
 abstract: []
 
 # Summary. An optional shortened abstract.
-summary: We introduce VGSNet to jointly learn a multimodal feature representation of 2D image, 3D shape geometry and structure so that both geometry and structure details can be reconstructed from a single-view image. 
+summary:  We introduce an end-to-end learning framework for image-to-image composition, aiming to seamlessly compose an object represented as a cropped patch from an object image into a background scene image.
 
 
 tags: []
@@ -58,8 +58,8 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9462521'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2112.06596'
+url_code: 'https://github.com/RyanHangZhou/SAC-GAN'
 url_dataset: ''
 url_poster: ''
 url_project: ''

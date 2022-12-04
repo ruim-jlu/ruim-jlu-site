@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 title: Research Interests
 subtitle:
@@ -29,4 +29,4 @@ The goal of my research is to enable novice users to create *high quality* and *
 
 * I am also highly interested in the direction of using computer graphics techniques (e.g., data synthesis) to boost computer vision tasks such as 2D/3D understanding, segmentation, as well as 3D reconstruction.
 
-* For more detailed introduction about my research, please check of my recent talk given at JLU: [slides](files/20211006_jlu_intro_to_ai_ruima.pptx) (in Chinese).
+* For more detailed introduction about my research, please check my recent talk given at JLU: [slides](files/20211006_jlu_intro_to_ai_ruima.pptx) (in Chinese).
