@@ -24,4 +24,5 @@ design:
 
 ---
 * **Reviewer (journal)**: IEEE TVCG, Computational Visual Media Journal, Computer Graphics Forum, Graphical Models
-* **Reviewer (conference)**: Eurographics, AAAI, IEEE Virtual Reality, Computational Visual Media, Graphics Interface
+* **Reviewer (conference)**: SIGGRAPH (Asia), ACM Multimedia, ECCV, Eurographics, IEEE Virtual Reality, Graphics Interface
+* **Program Committee**: AAAI (2023-2025), SGP (2024), CVM (2023-2025), CGI (2023-2024), CADCG (2024), GDC (2022-2024), CAD/Graphics (2023).

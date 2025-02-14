@@ -21,4 +21,5 @@ header:
 headless: true
 
 ---
-$\quad$ \* *For full publications, please visit my [Google Scholar](https://scholar.google.ca/citations?user=gU429joAAAAJ&hl=en)*
+* For full publications, please visit my [Google Scholar](https://scholar.google.ca/citations?user=gU429joAAAAJ&hl=en)
+* \* indicates the Co-first Author and \# indicates the Corresponding Author

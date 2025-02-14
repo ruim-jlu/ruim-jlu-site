@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Prof. Tieru Wu, Group Mentor
-home_page: http://sai.jlu.edu.cn/info/1094/2443.htm
+title: Prof. Tieru Wu (伍铁如), Group Mentor
+home_page: https://sai.jlu.edu.cn/info/1094/3443.htm
 
 # Is this the primary user of the site?
 superuser: false

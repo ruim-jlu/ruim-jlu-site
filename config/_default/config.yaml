@@ -5,7 +5,7 @@
 
 title: Rui Ma # Website name
 baseurl: 'https://ruim-jlu.github.io/' # Website URL
-copyright: '<font size="2">All Content Rights Reserved © Rui Ma. *Last Updated June 2022.* </font>' # Footer text, e.g. '© {year} Me'
+copyright: '<font size="2">All Content Rights Reserved © Rui Ma. *Last Update Aug 2024.* </font>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -48,8 +48,8 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 75
+  resampleFilter: Lanczos
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
