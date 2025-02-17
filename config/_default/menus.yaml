@@ -28,6 +28,9 @@ main:
   - name: Team
     url: 'team/'
     weight: 30
+  - name: 中文主页
+    url: 'https://sai.jlu.edu.cn/info/1094/3448.htm'
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

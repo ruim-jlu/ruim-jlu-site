@@ -6,7 +6,7 @@ weight: 10
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Peng Zheng
+- peng_zheng
 - Tao Liu
 - Zili Yi
 - ruim
@@ -34,7 +34,7 @@ publishDate: "2024-07-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ECCV, 2024* (清华A类会议)
+publication: "ECCV, 2024 (CAAI-A类会议)
 "
 publication_short: "*ECCV_shhd, 2024*"
 

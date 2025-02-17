@@ -35,7 +35,7 @@ publishDate: "2022-06-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Conference on Pattern Recognition* (*ICPR Oral*, 清华B类会议) and also *CVPR Workshop on Explainable Artificial Intelligence for Computer Vision (XAI4CV), 2022*"
+publication: "International Conference on Pattern Recognition* (*ICPR Oral, CAAI-B类会议) and also CVPR Workshop on Explainable Artificial Intelligence for Computer Vision (XAI4CV), 2022"
 publication_short: "*ICPR, 2022*"
 
 abstract: []

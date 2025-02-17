@@ -1,8 +1,7 @@
 ---
 # Display name
-title: Ye Wang
-
-home_page: 
+title: Yilin Wang
+home_page: https://yilinwang.org/
 
 # Is this the primary user of the site?
 superuser: false

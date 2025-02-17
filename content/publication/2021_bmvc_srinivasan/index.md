@@ -36,7 +36,7 @@ publishDate: "2021-10-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*British Machine Vision Conference (BMVC), 2021* (清华B类会议)"
+publication: "British Machine Vision Conference (BMVC), 2021 (清华B类会议)"
 publication_short: "*British Machine Vision Conference (BMVC), 2021*"
 
 abstract: []

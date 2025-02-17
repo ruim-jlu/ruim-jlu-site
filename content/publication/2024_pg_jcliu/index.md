@@ -7,7 +7,7 @@ weight: 10
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Jiacheng Liu
-- Hang Zhou
+- hang_zhou
 - Shida Wei
 - ruim
 
@@ -34,7 +34,7 @@ publishDate: "2024-08-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Graphics Forum (Special Issue of Pacific Graphics), 2024* (CCF-B类期刊)
+publication: "Computer Graphics Forum (Special Issue of Pacific Graphics), 2024 (CCF-B类期刊)
 "
 publication_short: "*CGF_diffpop, 2024*"
 
@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf:
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15246'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -7,8 +7,8 @@ weight: 10
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ruiqi Liu
-- Peng Zheng
-- Ye Wang
+- peng_zheng
+- ye_wang
 - ruim
 
 
@@ -34,7 +34,7 @@ publishDate: "2024-08-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Pacific Graphics (PG), 2024* (CCF-B类会议)
+publication: "Pacific Graphics (PG), 2024 (CCF-B类会议)
 "
 publication_short: "*PG_3dssgan, 2024*"
 
@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf:
+url_pdf: 'https://diglib.eg.org/bitstream/handle/10.2312/pg20241319/pg20241319.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -23,7 +23,8 @@ design:
   
 
 ---
-* Best Poster Award in CAD/Graphics, Shanghai, China, 2023
+* Best Reviewer Award, CCF CAD/CG, Nanchang, China, 2024 
+* Best Poster Award, CAD/Graphics, Shanghai, China, 2023
 * Award of Excellence, Stars of Tomorrow Internship Program, Microsoft Research Asia, 2016
 * Mitacs Globalink Research Award, Mitacs Canada, 2015
-* Best Poster Award in Geometric Design & Computing (GDC), Guangzhou, China, 2011
+* Best Poster Award, Geometric Design & Computing (GDC), Guangzhou, China, 2011

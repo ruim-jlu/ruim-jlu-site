@@ -44,7 +44,7 @@ publishDate: "2024-02-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*AAAI, 2024* (CCF-A类会议)
+publication: "AAAI, 2024 (CCF-A类会议)
 "
 publication_short: "*AAAI_EPSD, 2024*"
 
@@ -64,7 +64,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf:
+url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/29004'
 url_code: ''
 url_dataset: ''
 url_poster: ''

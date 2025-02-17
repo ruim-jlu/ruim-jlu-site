@@ -18,14 +18,13 @@ organizations:
 
 contact:
 - email: ruim@jlu.edu.cn
-- address: No. 2699 Qianjin Street, Changchun, China
+- address: No. 2699 Qianjin Street, Changchun, China  
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-announce: "*  [Recruiting]: I'm looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see this brief [introduction](https://mp.weixin.qq.com/s/oiRzVK7qYIYSq9vZjnbOgg) (in Chinese) and also the [details](#interests) below). Ideal candidates are expected to be <span style=\"color: red;\">**self-motivated**</span> (most important, no matter you are aiming for academia or industry), **organized**, **responsible**, and a **team player**. Strong **programming** skills, solid **mathematics** knowledge as well as good **communication** skills are preferred. Please: <br> 
-  1. Send me your **CV (resume)**, **Transcript** and a **brief Summary** of your experience (in PPT). (简历，成绩单，学习和科研经历的PPT简介) <br>
-  2. Finish the computer graphics (e.g., [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)) and computer vision (e.g., [Stanford CS131, 2019 Fall version](http://vision.stanford.edu/teaching/cs131_fall1920/)) course before contacting me. **I will ask detailed technique questions in the interview**. （请自行完成计算机图形学和计算机视觉基础课程的学习，我会在面试中提问具体的技术细节）<br> 
+announce: " **<span style=\"color: red;\">Recruiting</span>**: I'm always looking for prospective PhD and Master students who are interested in the AI-based CG&CV research (see this brief [introduction](https://mp.weixin.qq.com/s/oiRzVK7qYIYSq9vZjnbOgg) (in Chinese) and also the [details](#interests) below). Ideal candidates are expected to be **self-motivated**, **organized**, **responsible**, and a **team player**. Strong **programming** skills, solid **mathematics** knowledge as well as good **communication** skills are preferred. Please check my [Chinese Homepage](https://sai.jlu.edu.cn/info/1094/3448.htm) for details.
 "
 #   <span style=\"color: red;\">（注：2022年博士和保送硕士研究生招生名额已用完，考研硕士名额仍有剩余）</span>
 
@@ -93,7 +92,7 @@ At SFU, he worked in the [GrUVi Lab](https://gruvi.cs.sfu.ca/) (World Rank #12 i
 Before that, Rui got his MSc and BSc from School of Mathematics, Jilin University.
 
 Rui has extensive backgrounds in both academia and industry. During his PhD, Rui has published several papers in Siggraph/Siggraph Asia, the most prestigious conference in computer graphics.
-After graduation, Rui gained his industrial research experience (with three US patents granted) in the AI-focused start-up company and also the big tech giant (Huawei Canada), working on the state-of-the-art AI algorithms and their applications.
+After graduation, Rui gained his industrial research experience in the AI-focused start-up company and also the big tech giant (Huawei Canada), working on the state-of-the-art AI algorithms and their applications.
 Rui has wide collaborations with talented researchers from top universities (Stanford, SFU, Tsinghua etc.) and companies (Adobe, Microsoft, Google etc.).
 He also has close connections with researchers in Huawei, ByteDance and Alibaba etc.
 

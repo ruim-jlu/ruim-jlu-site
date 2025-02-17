@@ -1,20 +1,20 @@
 ---
-title: "3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation"
+title: "Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting"
 weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Songchun Zhang
-- yibo_zhang
-- Quan Zheng
-- Wei Hua
+- Tianyidan Xie
 - ruim
-- Hujun Bao
-- Weiwei Xu
-- Changqing Zou
-
+- Qian Wang
+- Xiaoqian Ye
+- Feixuan Liu
+- Ying Tai
+- Zhengyu Zhang
+- Lanjun Wang
+- zili_yi
 
 # author_pages: []
 
@@ -26,15 +26,12 @@ author_notes:
 - 
 - 
 - 
-- 
-- 
-- 
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-01"
+publishDate: "2025-01-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -43,9 +40,9 @@ publishDate: "2024-03-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR, 2024 (CCF-A类会议)
+publication: "AAAI, 2025 (CCF-A类会议)
 "
-publication_short: "*CVPR_3dscene, 2024*"
+publication_short: "*AAAI_any, 2025*"
 
 abstract: []
 
@@ -63,11 +60,11 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_3D-SceneDreamer_Text-Driven_3D-Consistent_Scene_Generation_CVPR_2024_paper.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://anywheremultiagent.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''

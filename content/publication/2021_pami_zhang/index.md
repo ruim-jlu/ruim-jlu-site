@@ -39,7 +39,7 @@ publishDate: "2021-01-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021* (CCF-A类期刊, IF=16.389)"
+publication: "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021 (CCF-A类期刊, IF=16.389)"
 publication_short: "*IEEE TPAMI, 2021*"
 
 abstract: []

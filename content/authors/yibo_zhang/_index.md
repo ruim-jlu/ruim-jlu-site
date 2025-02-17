@@ -1,22 +1,11 @@
 ---
 # Display name
-title: $%ms_2023_20$ Yibo Zhang (张轶博)
-home_page: https://yiboz2001.github.io/
+title: Yibo Zhang
 
+home_page: https://yiboz2001.github.io/
 
 # Is this the primary user of the site?
 superuser: false
-
-user_groups: ["Master Students"]
-
-role: 
-
-organizations:
-- name:  2023 to now
-- name:  School of Artificial Intelligence
-
-interests:
-
 
 highlight_name: false
 ---

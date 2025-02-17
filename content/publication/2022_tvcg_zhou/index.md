@@ -38,7 +38,7 @@ publishDate: "2022-12-03"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022* (CCF-A类期刊, IF=5.226)
+publication: "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022 (CCF-A类期刊, IF=5.226)
 "
 publication_short: "*TVCG, 2022*"
 

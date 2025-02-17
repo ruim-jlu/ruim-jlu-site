@@ -6,7 +6,7 @@ weight: 10
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ye_wang_pub
+- ye_wang
 - bowei_jiang_pub
 - changqing_zou
 - ruim
@@ -35,7 +35,7 @@ publishDate: "2023-03-21"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Arxiv Preprint, 2023*"
+publication: "Arxiv Preprint, 2023"
 publication_short: "*Arxiv, 2023*"
 
 abstract: []

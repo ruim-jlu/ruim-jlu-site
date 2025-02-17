@@ -8,7 +8,7 @@ weight: 10
 authors:
 - Linlian Jiang
 - Pan Chen
-- Ye Wang
+- ye_wang
 - Tieru Wu
 - ruim
 
@@ -36,7 +36,7 @@ publishDate: "2023-08-21"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The 18th International Conference on Computer-Aided Design and Computer Graphics (CAD/Graphics), 2023* (CCF-C类会议，**Best Poster Award**)
+publication: "The 18th International Conference on Computer-Aided Design and Computer Graphics (CAD/Graphics), 2023 (CCF-C类会议，**Best Poster Award**)
 "
 publication_short: "*CADG, 2023*"
 

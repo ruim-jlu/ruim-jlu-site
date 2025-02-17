@@ -44,7 +44,7 @@ publishDate: "2024-04-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*SIGGRAPH, 2024* (CCF-A类会议)
+publication: "SIGGRAPH, 2024 (CCF-A类会议)
 "
 publication_short: "*SIG_gspredict, 2024*"
 
@@ -65,10 +65,10 @@ featured: true
 #   url: 
 
 url_pdf:
-url_code: ''
+url_code: 'https://github.com/BoMingZhao/GaussianPrediction'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://zju3dv.github.io/gaussian-prediction/'
 url_slides: ''
 url_source: ''
 url_video: ''

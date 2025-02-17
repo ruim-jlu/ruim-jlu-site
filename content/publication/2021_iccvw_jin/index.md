@@ -40,7 +40,7 @@ publishDate: "2021-01-02"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Second ICCV Workshop on Autonomous Vehicle Vision (AVVision), 2021* (Workshop Oral paper)"
+publication: "Second ICCV Workshop on Autonomous Vehicle Vision (AVVision), 2021 (Workshop Oral paper)"
 publication_short: "*Second ICCV Workshop on Autonomous Vehicle Vision (AVVision), 2021*"
 
 abstract: []
