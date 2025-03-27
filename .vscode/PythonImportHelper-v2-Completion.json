@@ -1,0 +1,81 @@
+[
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "LANG_PATH",
+        "kind": 5,
+        "importPath": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "description": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "peekOfCode": "LANG_PATH = Path(__file__).resolve().parent.parent.joinpath('wowchemy').joinpath('data').joinpath('i18n')\nLANG_YAML = LANG_PATH.joinpath('languages.yaml')\n# Iterate over languages.\nwith open(LANG_YAML) as f:\n  master_map = yaml.safe_load(f)\n  # Print languages as a plaintext list.\n  # lang_list = [master_map[master_item] for master_item in master_map]\n  # print(', '.join(lang_list))\n  # Print languages as a Markdown list.\n  i = 0",
+        "detail": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "documentation": {}
+    },
+    {
+        "label": "LANG_YAML",
+        "kind": 5,
+        "importPath": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "description": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "peekOfCode": "LANG_YAML = LANG_PATH.joinpath('languages.yaml')\n# Iterate over languages.\nwith open(LANG_YAML) as f:\n  master_map = yaml.safe_load(f)\n  # Print languages as a plaintext list.\n  # lang_list = [master_map[master_item] for master_item in master_map]\n  # print(', '.join(lang_list))\n  # Print languages as a Markdown list.\n  i = 0\n  for master_item in master_map:",
+        "detail": "themes.wowchemy-hugo-themes.scripts.list_language_packs",
+        "documentation": {}
+    },
+    {
+        "label": "I18N_PATH",
+        "kind": 5,
+        "importPath": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "description": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "peekOfCode": "I18N_PATH = Path(__file__).resolve().parent.parent.joinpath('wowchemy').joinpath('i18n')\nMASTER_PACK = I18N_PATH.joinpath('en.yaml')\n# Load master language pack (English).\nwith open(MASTER_PACK) as f:\n  master_map = yaml.safe_load(f)\n  # if (DEBUG)\n  #   print(master_map)\n# Iterate over each child language pack.\ncnt = 0\nfor filename in Path(I18N_PATH).glob(\"*.yaml\"):",
+        "detail": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "MASTER_PACK",
+        "kind": 5,
+        "importPath": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "description": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "peekOfCode": "MASTER_PACK = I18N_PATH.joinpath('en.yaml')\n# Load master language pack (English).\nwith open(MASTER_PACK) as f:\n  master_map = yaml.safe_load(f)\n  # if (DEBUG)\n  #   print(master_map)\n# Iterate over each child language pack.\ncnt = 0\nfor filename in Path(I18N_PATH).glob(\"*.yaml\"):\n  if filename.stem != 'en':",
+        "detail": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "cnt",
+        "kind": 5,
+        "importPath": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "description": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "peekOfCode": "cnt = 0\nfor filename in Path(I18N_PATH).glob(\"*.yaml\"):\n  if filename.stem != 'en':\n    i18n_file = I18N_PATH.joinpath(filename)\n    print(f\"Processing {i18n_file} ...\")\n    # Load a child language pack.\n    with open(i18n_file) as f:\n      child_map = yaml.safe_load(f)\n    # Synchronize the language pack's structure against the master language pack.\n    tmp_map = copy.deepcopy(master_map)  # Make a temporary deep copy of the master map (list of objects).",
+        "detail": "themes.wowchemy-hugo-themes.scripts.sync_i18n",
+        "documentation": {}
+    }
+]

@@ -1,11 +1,11 @@
 ---
 # Display name
-title: $%phd_2023_10$ Tongyuan Bai (白桐源)
+title: Tongyuan Bai
+home_page: https://cangmushui.github.io/
 
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["PhD Students"]
 
 role: 
 

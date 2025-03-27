@@ -1,10 +1,11 @@
 ---
 # Display name
-title: $%phd_2024_15$ Yuanfan Baiwang
+title: $%phd_2024_15$ Yuanfan Baiwang (白王远帆)
 
 # Is this the primary user of the site?
 superuser: false
 
+user_groups: ["PhD Students"]
 
 role: 
 

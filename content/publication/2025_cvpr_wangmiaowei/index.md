@@ -1,16 +1,17 @@
 ---
-title: "SingleDream: Attribute-Driven T2I Customization from a Single Reference Image"
-weight: 10
+title: "DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction"
+weight: 9
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ye_wang
-- Ruiqi Liu
-- zili_yi
-- wutr
+- miaowei_wang
+- yibo_zhang
 - ruim
+- weiwei_xu
+- changqing_zou
+- daniel_morris
 
 
 # author_pages: []
@@ -19,15 +20,17 @@ authors:
 author_notes:
 -
 - 
-- Corresponding Author
 - 
-- Corresponding Author
+-
+-
+-
+
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2025-03-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,9 +39,9 @@ publishDate: "2025-01-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVM, 2025"
+publication: "CVPR, 2025 (CCF-A类会议)"
 
-publication_short: "*cvm_singledream, 2025*"
+publication_short: "*cvpr_freescene, 2025*"
 
 abstract: []
 
@@ -89,7 +92,6 @@ url_video: ''
 
 draft: false
 ---
-
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

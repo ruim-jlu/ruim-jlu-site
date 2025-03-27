@@ -1,10 +1,11 @@
 ---
 # Display name
-title: $%phd_2022_10$ Dong Chen 
+title: $%phd_2022_10$ Dong Chen (陈东)
 
 # Is this the primary user of the site?
 superuser: false
 
+user_groups: ["PhD Students"]
 
 role:
 
