@@ -1,6 +1,6 @@
 ---
-title: "OmniStyle: Filtering High Quality Style Transfer Data at Scale"
-weight: 9
+title: "DP-Adapter: Dual-pathway adapter for boosting fidelity and text consistency in customizable human image generation"
+weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,45 +8,43 @@ weight: 9
 authors:
 - ye_wang
 - ruiqi_liu
-- jiang_lin
-- fei_liu
+- xuping_xie
+- lanjun_wang
 - zili_yi
-- yilin_wang
 - ruim
+
+
 # author_pages: []
 
 # Author notes (optional)
 author_notes:
+- Co-first Author
+- Co-first Author
 -
-- 
-- 
 -
 -
-- Corresponding Author
 - Corresponding Author
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-15"
+publishDate: "2025-08-18"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR, 2025 (CCF-A类会议)"
-
-publication_short: "*cvpr_freescene, 2025*"
+publication: "Graphical Models, 2025 (CCF-B类期刊)"
+publication_short: "*Graphical Models, 2025*"
 
 abstract: []
 
 # Summary. An optional shortened abstract.
-summary: 
-
+summary: We propose DP-Adapter, a dual-pathway adapter framework that enhances both fidelity and text consistency in customizable human image generation tasks.
 
 tags: []
 
@@ -58,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1524070325000396'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -91,6 +89,7 @@ url_video: ''
 
 draft: false
 ---
+
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -99,4 +98,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --> 

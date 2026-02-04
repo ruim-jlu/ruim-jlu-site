@@ -1,18 +1,16 @@
 ---
-title: "OmniStyle: Filtering High Quality Style Transfer Data at Scale"
-weight: 9
+title: "A Community-Aware Spatio-Temporal Hypergraph Contrastive Learning Method for Social Bot Detection"
+weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ye_wang
-- ruiqi_liu
-- jiang_lin
-- fei_liu
-- zili_yi
-- yilin_wang
+- feng_liu
+- zhenyu_li
 - ruim
+
+
 # author_pages: []
 
 # Author notes (optional)
@@ -20,27 +18,25 @@ author_notes:
 -
 - 
 - 
--
--
-- Corresponding Author
+- 
 - Corresponding Author
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-15"
+publishDate: "2025-11-26"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR, 2025 (CCF-A类会议)"
-
-publication_short: "*cvpr_freescene, 2025*"
+publication: "IEEE Transactions on Information Forensics and Security (TIFS), 2025 (CCF-A类期刊)
+"
+publication_short: "*IEEE TIFS, 2025*"
 
 abstract: []
 
@@ -58,11 +54,11 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/11269897'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://github.com/FengLiuii/BotSTHCL'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -91,6 +87,7 @@ url_video: ''
 
 draft: false
 ---
+
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

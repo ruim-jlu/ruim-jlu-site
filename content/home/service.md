@@ -20,10 +20,8 @@ design:
   background:
   spacing:
     padding: ["10px", "0", "10px", "125px"]
-  
-
 ---
-* **Chairs**: CADCG/GDC 2025 (Publicity Chair), Chinagraph 2024 (Session Chair)
+* **Chairs**: CADCG/GDC 2025 (Publicity Chair), PG2024 (Session Chair), 3DV2025 (Area Chair)
 * **Program Committee**: AAAI (2023-2025), SGP (2024-2025), CVM (2023-2025), CGI (2023-2024), CADCG (2024-2025), GDC (2022-2025), CAD/Graphics (2023).
 * **Reviewer (journal)**: IEEE TVCG, Computational Visual Media Journal, Computer Graphics Forum, Graphical Models
 * **Reviewer (conference)**: SIGGRAPH (Asia), CVPR, ICCV, ECCV, ACM MM, EG, IEEE VR, ICRA, Graphics Interface

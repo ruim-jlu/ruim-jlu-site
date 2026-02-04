@@ -1,18 +1,19 @@
 ---
-title: "OmniStyle: Filtering High Quality Style Transfer Data at Scale"
-weight: 9
+title: "Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis"
+weight: 5
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ye_wang
-- ruiqi_liu
-- jiang_lin
-- fei_liu
-- zili_yi
-- yilin_wang
+- peng_zheng
+- Junke Wang
+- Yi Chang
+- Yizhou Yu
 - ruim
+- Zuxuan Wu
+
+
 # author_pages: []
 
 # Author notes (optional)
@@ -20,16 +21,15 @@ author_notes:
 -
 - 
 - 
--
--
+- 
 - Corresponding Author
-- Corresponding Author
+-
 
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-15"
+publishDate: "2025-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,9 +38,9 @@ publishDate: "2025-03-15"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR, 2025 (CCF-A类会议)"
-
-publication_short: "*cvpr_freescene, 2025*"
+publication: "ICCV, 2025 (CCF-A类会议)
+"
+publication_short: "*ICCV, 2025*"
 
 abstract: []
 
@@ -58,7 +58,7 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2507.01756'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -2,6 +2,86 @@
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
+## Deployment Guide
+
+### 1. Hugo Installation (Windows)
+
+1. **Download Hugo**: Visit [Hugo v0.90.0-DD0D3FDB+extended releases](https://github.com/gohugoio/hugo/releases/tag/v0.90.0-DD0D3FDB+extended)
+2. **Download**: `hugo_extended_0.90.0_Windows-64bit.zip`
+3. **Extract**: Unzip to `C:\Users\[username]\hugo-0.90.0\`
+4. **Set PATH**: Add `C:\Users\[username]\hugo-0.90.0` to system PATH environment variable
+5. **Verify**: Open new terminal and run `hugo version`
+
+### 2. Local Development
+
+```bash
+# Clone repository
+git clone <repository-url>
+cd ruim-jlu-site
+
+# Start local server for development
+hugo server -D
+# Visit http://localhost:1313
+```
+
+### 3. Build & Deploy
+
+```bash
+# Build static site
+hugo
+
+# The built site will be in public/ directory
+# Deploy public/ contents to your web server
+```
+
+#### Deploy to GitHub Pages
+
+**Current Project Configuration:**
+```bash
+# Build the site
+hugo
+
+# Navigate to public directory
+cd public
+
+# Check current status
+git status
+
+# Add all changes
+git add .
+
+# Commit changes
+git commit -m "Update website - $(date '+%Y-%m-%d %H:%M:%S')"
+
+# Push to remote repository (ruim-jlu.github.io)
+git push origin master
+```
+
+**Repository Information:**
+- Remote repository: `git@github.com:ruim-jlu/ruim-jlu.github.io.git`
+- Branch: `master`
+- Website URL: `https://ruim-jlu.github.io`
+
+**Setup for First Time (if needed):**
+```bash
+cd public
+git init
+git remote add origin git@github.com:ruim-jlu/ruim-jlu.github.io.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+**Note**: The public directory is already configured as a separate git repository pointing to the GitHub Pages repository.
+
+### 4. Troubleshooting
+
+- **Hugo command not found**: Ensure PATH is set correctly and restart terminal
+- **Port already in use**: Use `hugo server -D --port 1314`
+- **Build errors**: Check Hugo version compatibility (requires v0.90.0+ extended)
+
+## About
+
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
 [Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).

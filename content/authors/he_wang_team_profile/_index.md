@@ -1,8 +1,6 @@
 ---
 # Display name
-title: $%phd_2025_10$ Yibo Zhang (张轶博)
-home_page: https://yiboz2001.github.io/
-
+title: $%phd_2025_40$ He Wang (王赫)
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +12,6 @@ role:
 organizations:
 - name:  2025 to Now
 - name:  School of Artificial Intelligence
-- name:  Transfer from Master (2023-2025) at ICL
 
 interests:
 

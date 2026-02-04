@@ -26,6 +26,10 @@ design:
   rcolwidth: "20"
 
 ---
+* 2025.11: **One** paper accepted by **IEEE Transactions on Information Forensics and Security** (TIFS, CCF-A). Congrats to Feng Liu!
+* 2025.10: **One** paper accepted by **NeurIPS 2025** (CCF-A). Congrats to [Linlian Jiang](https://linlianjiang.github.io/)!
+* 2025.8: **Two** papers accepted by **CAD/Graphics 2025** and recommended to **Graphical Models** (CCF-B). Congrats to [Bowei Jiang](https://bowei-jiang.github.io/) and [Ye Wang](https://wangyephd.github.io/)! Special congratulations to Ye Wang for winning the **Honorable Mention** at CAD/Graphics 2025!
+* 2025.6: **One** paper accepted by **ICCV 2025** (CCF-A). Congrats to [Peng Zheng](https://pengzheng0707.github.io/)!
 * 2025.2: **Four** papers accepted by **CVPR 2025** (CCF-A).  Congrats to [Ye Wang](https://wangyephd.github.io/), Tongyuan Bai and [Yibo Zhang](https://yiboz2001.github.io/)!
 
 * 2025.1: **One** paper accepted by **ICLR 2025** (CAAI-A).  Congrats to [Yibo Zhang](https://yiboz2001.github.io/)!

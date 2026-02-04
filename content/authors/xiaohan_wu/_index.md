@@ -1,6 +1,6 @@
 ---
 # Display name
-title: $%ms_2024_40$ Xiaohan Wu (吴晓涵)
+title: $%ms_2024_40$ Xiaohan Wu
 
 # Is this the primary user of the site?
 superuser: false
