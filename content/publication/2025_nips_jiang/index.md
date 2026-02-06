@@ -6,7 +6,7 @@ weight: 10
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- linliang_jiang
+- linlian_jiang
 - ruim
 - li_gu
 - ziqiang_wang
