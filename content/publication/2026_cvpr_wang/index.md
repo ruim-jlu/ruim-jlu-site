@@ -1,18 +1,20 @@
 ---
-title: "PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation"
+title: "ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking"
 weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ting_pan
-- ye_wang
-- peiguang_jing
+- Lihong_Wang
+- Liangqi_Li
+- Weiwei_Feng
+- Jiamin_Wu
+- Changtao_Miao
+- wutr
 - ruim
-- zili_yi
-- yu_liu
-
+- Bo_Zhang
+- Zhe_Li
 
 # author_pages: []
 
@@ -28,18 +30,18 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-30"
+publishDate: "2026-03-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Information Fusion, 2026 (SCI, 中科院一区)
+publication: "CVPR, 2026 (CCF-A类会议)
 "
-publication_short: "*Information Fusion, 2026*"
+publication_short: "*cvpr_freescene, 2026*"
 
 abstract: []
 
@@ -57,11 +59,11 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2511.16712'
+url_pdf: 'https://arxiv.org/abs/2512.14654'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/annaoooo/PairHuman'
+url_project: 'https://github.com/Leon-LihongWang/ViRC'
 url_slides: ''
 url_source: ''
 url_video: ''

@@ -7,7 +7,6 @@ weight: 10
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - ye_wang
-- bowei_jiang_pub
 - changqing_zou
 - ruim
 
@@ -17,7 +16,6 @@ authors:
 # Author notes (optional)
 author_notes:
 -
-- 
 - 
 - Corresponding Author
 

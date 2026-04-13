@@ -1,18 +1,15 @@
 ---
-title: "PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation"
+title: "UniCAD: A Prototype-Enhanced Unified Framework for CAD Construction Sequence Generation"
 weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- ting_pan
-- ye_wang
-- peiguang_jing
+- meng_yuan
+- dawei_lin
+- wutr
 - ruim
-- zili_yi
-- yu_liu
-
 
 # author_pages: []
 
@@ -20,7 +17,7 @@ authors:
 author_notes:
 -
 - 
-- 
+- Corresponding Author
 - 
 - Corresponding Author
 
@@ -28,18 +25,18 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-30"
+publishDate: "2026-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Information Fusion, 2026 (SCI, 中科院一区)
-"
-publication_short: "*Information Fusion, 2026*"
+publication: "CVM, 2026"
+
+publication_short: "*cvm_singledream, 2026*"
 
 abstract: []
 
@@ -57,11 +54,11 @@ featured: true
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2511.16712'
+url_pdf: 'https://www.researchgate.net/publication/399776120_UniCAD_A_Prototype-Enhanced_Unified_Framework_for_CAD_Construction_Sequence_Generation'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/annaoooo/PairHuman'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

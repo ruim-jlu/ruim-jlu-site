@@ -6,7 +6,6 @@ weight: 10
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- bowei_jiang
 - tongyuan_bai
 - peng_zheng
 - wutr
@@ -17,7 +16,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- Co-first Author
 - Co-first Author
 -
 -
