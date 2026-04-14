@@ -13,8 +13,8 @@ authors:
 - Changtao Miao
 - wutr
 - ruim
-- Bo_Zhang
-- Zhe_Li
+- Bo Zhang
+- Zhe Li
 
 # author_pages: []
 
