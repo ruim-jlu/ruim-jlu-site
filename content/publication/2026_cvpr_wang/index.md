@@ -7,10 +7,10 @@ weight: 10
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Lihong_Wang
-- Liangqi_Li
-- Weiwei_Feng
-- Jiamin_Wu
-- Changtao_Miao
+- Liangqi Li
+- Weiwei Feng
+- Jiamin Wu
+- Changtao Miao
 - wutr
 - ruim
 - Bo_Zhang
@@ -23,7 +23,9 @@ author_notes:
 -
 - 
 - 
-- 
+-
+-
+-
 - Corresponding Author
 
 date: ""

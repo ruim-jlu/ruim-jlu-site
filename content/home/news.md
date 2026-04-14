@@ -27,7 +27,7 @@ design:
 
 ---
 * 2026.2: **Two** papers accepted by **CVPR 2026** (CCF-A).  Congrats to [Lihong Wang](https://leon-lihongwang.github.io/) and Meng Yuan!
-* 2025.12: **Three** paper accepted by **CVM 2026**.  Congrats to [Peng Zheng](https://pengzheng0707.github.io/), Meng Yuan and Hao Wang!
+* 2025.12: **Three** papers accepted by **CVM 2026**.  Congrats to [Peng Zheng](https://pengzheng0707.github.io/), Meng Yuan and Hao Wang!
 * 2025.11: **One** paper accepted by **IEEE Transactions on Information Forensics and Security** (TIFS, CCF-A). Congrats to Feng Liu!
 * 2025.10: **One** paper accepted by **NeurIPS 2025** (CCF-A). Congrats to [Linlian Jiang](https://linlianjiang.github.io/)!
 * 2025.8: **Two** papers accepted by **CAD/Graphics 2025** and recommended to **Graphical Models** (CCF-B). Congrats to [Bowei Jiang](https://bowei-jiang.github.io/) and [Ye Wang](https://wangyephd.github.io/)! Special congratulations to Ye Wang for winning the **Honorable Mention** at CAD/Graphics 2025!
