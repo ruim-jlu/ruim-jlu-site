@@ -26,6 +26,9 @@ design:
   rcolwidth: "20"
 
 ---
+* 2026.7: **Two** papers accepted by **SIGGRAPH Asia 2026** (CCF-A). Congrats to [Yibo Zhang](https://yiboz2001.github.io/) and Xiangze Meng!
+* 2026.6: **One** paper accepted by **ECCV 2026** (CAAI-A). Congrats to [Ye Wang](https://wangyephd.github.io/)!
+* 2026.6: **One** paper accepted by **Computer-Aided Design** (CAD, CCF-B). Congrats to Meng Yuan!
 * 2026.2: **Two** papers accepted by **CVPR 2026** (CCF-A).  Congrats to [Lihong Wang](https://leon-lihongwang.github.io/) and Meng Yuan!
 * 2025.12: **Three** papers accepted by **CVM 2026**.  Congrats to [Peng Zheng](https://pengzheng0707.github.io/), Meng Yuan and Hao Wang!
 * 2025.11: **One** paper accepted by **IEEE Transactions on Information Forensics and Security** (TIFS, CCF-A). Congrats to Feng Liu!
