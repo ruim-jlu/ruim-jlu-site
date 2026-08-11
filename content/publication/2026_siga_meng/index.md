@@ -27,7 +27,7 @@ publishDate: "2026-07-18"
 
 publication_types: ["1"]
 
-publication: "ACM SIGGRAPH Asia, 2026 (CCF-A类会议)"
+publication: "SIGGRAPH Asia, 2026"
 publication_short: "*SIGGRAPH Asia 2026*"
 abstract: []
 
